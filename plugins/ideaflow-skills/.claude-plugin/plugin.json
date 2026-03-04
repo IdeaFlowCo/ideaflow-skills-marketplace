@@ -1,0 +1,9 @@
+{
+  "name": "ideaflow-skills",
+  "version": "1.0.0",
+  "description": "iOS App Store launch workflow and skill-crafting guide from IdeaFlow.",
+  "author": {
+    "name": "IdeaFlow",
+    "url": "https://github.com/IdeaFlowCo"
+  }
+}

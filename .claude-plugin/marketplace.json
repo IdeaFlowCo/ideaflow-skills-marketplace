@@ -1,0 +1,20 @@
+{
+  "name": "ideaflow-marketplace",
+  "owner": {
+    "name": "IdeaFlow",
+    "url": "https://github.com/IdeaFlowCo"
+  },
+  "metadata": {
+    "description": "Skills and tools from IdeaFlow for Claude Code and compatible agents.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "ideaflow-skills",
+      "source": "./plugins/ideaflow-skills",
+      "description": "iOS App Store launch workflow and skill-crafting guide. Includes generic skills for publishing iOS apps and writing high-quality Claude skills.",
+      "version": "1.0.0"
+    }
+  ]
+}
